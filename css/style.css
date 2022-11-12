@@ -34,7 +34,7 @@ h1
   text-decoration: underline;
   color: #66BFBF;
 }
-label
+label, legend
 {
   font-family: cursive;
 }
@@ -47,4 +47,8 @@ label
 td, th
 {
   font-family: cursive;
+}
+fieldset
+{
+  width: 5%;
 }
